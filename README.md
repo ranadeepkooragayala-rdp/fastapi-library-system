@@ -55,30 +55,18 @@ This API allows efficient handling of library operations such as:
 
 📁 Project Structure
 library-management-system/
+fastapi-library-book-system
 │
-├── app/
-│   ├── main.py                # Entry point (FastAPI app)
-│   ├── models.py              # Pydantic models
-│   ├── routes/
-│   │   ├── books.py           # Book-related endpoints
-│   │   ├── borrow.py          # Borrowing logic
-│   │   ├── queue.py           # Waitlist management
-│   │
-│   ├── services/
-│   │   ├── book_service.py    # Business logic for books
-│   │   ├── borrow_service.py  # Borrow logic
-│   │   ├── queue_service.py   # Queue logic
-│   │
-│   ├── utils/
-│   │   ├── helpers.py         # Helper functions
-│
-│   └── data/
-│       ├── db.py              # In-memory data (books, records)
-│
-├── requirements.txt           # Dependencies
-├── README.md                  # Project documentation
-└── .gitignore                 # Ignore unnecessary files
-
+├── main.py
+├── requirements.txt
+├── README.md
+└── screenshots
+      ├── Q1_home_route.png
+      ├── Q2_get_all_books.png
+      ├── Q3_get_book_by_id.png
+      ├── ...
+      └── Q20_browse_endpoint.png
+---
 
 ## 🛠️ Tech Stack
 
