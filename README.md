@@ -1,6 +1,7 @@
 # 📚 FastAPI Library Book Management System
 ---
-A robust Backend API built with FastAPI to manage library inventory, member borrowings, and automated waitlists. This project demonstrates advanced RESTful API concepts including complex data filtering, custom sorting, and manual pagination.
+A scalable and well-structured backend API built using FastAPI for managing a library’s book inventory, borrowing system, and waitlist queue. This project demonstrates real-world backend development practices, including RESTful API design, request validation, and multi-step workflows.
+
 ---
 
 ## 🚀 Project Overview
