@@ -52,7 +52,7 @@ This API allows efficient handling of library operations such as:
   
 
 ---
-
+---
 📁 Project Structure
 library-management-system/
 fastapi-library-book-system
@@ -67,7 +67,7 @@ fastapi-library-book-system
       ├── ...
       └── Q20_browse_endpoint.png
 ---
-
+---
 ## 🛠️ Tech Stack
 
 - Language: Python 3.9+  
