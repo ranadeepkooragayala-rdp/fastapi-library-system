@@ -50,7 +50,6 @@ This API allows efficient handling of library operations such as:
 - GET /queue – View waitlist  
 - POST /return/{book_id} – Return book
   
-
 ---
 ---
 📁 Project Structure
