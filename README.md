@@ -51,21 +51,20 @@ This API allows efficient handling of library operations such as:
 - POST /return/{book_id} – Return book
   
 ---
----
-📁 Project Structure
+```
 library-management-system/
-fastapi-library-book-system
 │
 ├── main.py
 ├── requirements.txt
 ├── README.md
-└── screenshots
-      ├── Q1_home_route.png
-      ├── Q2_get_all_books.png
-      ├── Q3_get_book_by_id.png
-      ├── ...
-      └── Q20_browse_endpoint.png
----
+│
+├── screenshots/
+│   ├── Q1_home_route.png
+│   ├── Q2_get_all_books.png
+│   ├── Q3_get_book_by_id.png
+│   └── Q20_browse_endpoint.png
+
+```
 ---
 ## 🛠️ Tech Stack
 
